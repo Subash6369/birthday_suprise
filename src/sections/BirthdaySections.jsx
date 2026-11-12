@@ -5,7 +5,7 @@ import { useWindowSize } from './useWindowSize.js'
 import { Heart, Sparkles, Gift, Cake, Mail, Star, ArrowDown, Flower2, LockKeyhole, MapPin, Camera } from 'lucide-react'
 
 const name = 'Ponnarasi💜'
-const birthdayDate = '2026-11-08T00:00:00+05:30' // Change this to her birthday: YYYY-MM-DDTHH:mm:ss
+const birthdayDate = '2027-11-08T00:00:00+05:30' // Change this to her birthday: YYYY-MM-DDTHH:mm:ss
 
 const fadeUp = {
   hidden: { opacity: 0, y: 28 },
